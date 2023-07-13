@@ -1,7 +1,6 @@
 #ifndef HTTP_MESSAGE_HANDLER_MESSAGE_HEADERS_BODY_H
 #define HTTP_MESSAGE_HANDLER_MESSAGE_HEADERS_BODY_H
 
-#include "../url/url.h"
 #include "message_types.h"
 
 namespace net {
